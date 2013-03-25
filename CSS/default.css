@@ -1,0 +1,13 @@
+.ui-layout-south, .ui-layout-north {
+	background-color: #1480ff
+}
+
+.ui-layout-south {
+	margin-top: 5px;
+	font-size: 0.7em;
+}
+
+.navigation-link {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
